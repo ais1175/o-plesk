@@ -4,5 +4,5 @@
 
 Script to get the plesk free try plesk for free forever without ad
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/EternodeHosting/o-plesk/main/script.sh)
+bash <(curl -s https://raw.githubusercontent.com/ais1175/o-plesk/main/script.sh)
 ```
